@@ -2,7 +2,7 @@
 // is present then return its location, otherwise
 // return -1
 
-class LinearSearch {
+class prime {
 
       static int search(int a[], int n, int x)
     {
